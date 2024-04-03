@@ -1,4 +1,4 @@
-# Blockchain Example
+# The Longest UTXO chain
 
 ## How to Run
 
